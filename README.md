@@ -69,7 +69,7 @@
 - 🐛 Logged & managed **200+ defects** in **JIRA & Redmine**
 - 🔄 Collaborated across **6-10 Agile sprints** with developers & business analysts
 
-### 🏢 Python Developer & QA Intern — CEI Design Consultancy *(July – Aug 2024)*
+### 🏢 Python Developer & QA Intern — CEI Design Consultancy *(July 2024 – Aug 2024)*
 - 🐍 Developed automated Python scripts for data extraction & validation
 - 📊 Applied QA principles to data quality assurance for client projects
 
@@ -94,7 +94,7 @@
 ## 🎓 Education
 
 🎓 **MCA — AI & Machine Learning** | Amity University, Noida | 2025–2027 | SGPA: 9.00/10  
-🎓 **BCA — Artificial Intelligence** | Maharaja Surajmal Institute, New Delhi | 2022–2025 | CGPA: 9.148/10
+🎓 **BCA — Artificial Intelligence** | Maharaja Surajmal Institute, New Delhi | 2022–2025 | CGPA: 9.2/10
 
 ---
 
